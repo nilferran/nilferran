@@ -16,7 +16,7 @@ Estudiant d'Enginyeria · EPSEVG (UPC) · Barcelona
 - 🔭 Cursant **Enginyeria** a la Universitat Politècnica de Catalunya
 - 🌱 Aprenent sobre **xarxes, protocols i sistemes multimèdia**
 - 🛠️ Experiència amb Wireshark, entorns Linux i laboratoris de xarxes
-- 📍 Barcelona, Catalunya
+- 📍 Vilanova i la Geltrú, Barcelona, Catalunya
 
 ---
 
