@@ -14,7 +14,7 @@ Estudiant d'Enginyeria · EPSEVG (UPC) · Barcelona
 ## 🎓 Sobre mi
 
 - 🔭 Cursant **Enginyeria** a la Universitat Politècnica de Catalunya
-- 🌱 Aprenent sobre **VoIP · IPTV · DVB-IP · SIP/RTP**
+- 🌱 Aprenent sobre **xarxes, protocols i sistemes multimèdia**
 - 🛠️ Experiència amb Wireshark, entorns Linux i laboratoris de xarxes
 - 📍 Barcelona, Catalunya
 
